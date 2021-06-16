@@ -1,0 +1,4 @@
+enum BottomTabs {
+  Home,
+  List,
+}
